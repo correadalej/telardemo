@@ -1,0 +1,6 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,,,,,,Enter the Pavilion,,,,,,,,,
+2,azhartextbooks,0.5,0.5,1,,What is this controlled chaos?,"Al-Azhar--a mosque, university, and social institution in Egypt--is also a major publisher of Islamic educational materials.",,,,,,,,
+3,azhartextbooks,0.2995402587993288,0.34643978343704906,7.0963199999999995,,What do they publish?,Al-Azhar publishes everything from well-regarded editions of complex & famous texts...,,,,,,,,
+4,azhartextbooks,0.44605189557530034,0.5538523146585291,3.5831807999999996,,Publishing for students,...to extremely cheap paperbound textbooks for impoverished college students.,,,,,,,,
